@@ -134,9 +134,9 @@ include("mobile_detect.php");
    
     <?php get_template_part( 'topbar','default'); ?>
   
-  	<?php get_template_part( 'menu','home'); ?>  
     </div><!-- close topbar -->
-   		
+   		  	<?php get_template_part( 'menu','home'); ?>  
+
 	 <div id="slider"><h1>Framework</p>
 <h1>
 <h2>Responsive Design Theme</h2>

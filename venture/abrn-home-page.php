@@ -138,9 +138,9 @@ include("mobile_detect.php");
 		
 <?php get_template_part( 'menu','home'); ?>
   
-  	<!-- Menu Above Header -->  
     </div><!-- close topbar -->
-   		
+   		  	<!-- Menu Above Header -->  
+
 	 <?php get_template_part('slider','default'); ?>  
 
 

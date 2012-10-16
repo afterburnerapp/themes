@@ -134,10 +134,11 @@ include("mobile_detect.php");
     
    <?php get_template_part('topbar','default'); ?>
     
-   <?php get_template_part('menu'); ?>   
 
   
      </div><!-- close topbar-->
+        <?php get_template_part('menu'); ?>   
+
       
  
  <div id='daughter_header'></div>  

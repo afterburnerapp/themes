@@ -10,7 +10,6 @@ max-width:960px;
 overflow:visible;
 padding-bottom:0;
 padding-left:0;
-padding-right:25px;
 padding-top:0;
 }
 
@@ -27,7 +26,6 @@ background-image:url(images/background.jpg);
 
 #slider {
 background-repeat:no-repeat;
-height:22.6429em;
 max-width:960px;
 min-height:317px;
 overflow:visible;
