@@ -5,7 +5,7 @@ display:none;
 .topbar {
 background-image:none;
 background-image:none;
-height:6.2858em;
+height:6.1786em;
 max-width:100%;
 overflow:visible;
 padding-bottom:0;
@@ -17,7 +17,7 @@ padding-top:0;
 #daughter_header {
 background-image:none;
 background-repeat:no-repeat;
-height:.3215em;
+height:0;
 }
 
 .daughter_background {
@@ -28,10 +28,10 @@ background-image:url(images/background.jpg);
 #slider {
 background-repeat:no-repeat;
 max-width:100%;
-min-height:122px;
+min-height:151px;
 overflow:visible;
 padding:0;
-padding-bottom:0;
+padding-bottom:1em;
 padding-left:10%;
 padding-right:10%;
 padding-top:0;
@@ -53,15 +53,14 @@ background-image:none;
 background-repeat:no-repeat;
 margin:0 10%;
 margin-top:0;
-max-width:100%;
-width:80%;
+max-width:80%;
 }
 
 .footer {
 background-color:inherit;
 background-image:none;
 background-repeat:no-repeat;
-height:16.3572em;
+height:12.0715em;
 }
 
 #centeredmenu {
@@ -79,19 +78,19 @@ text-transform:none;
 }
 
 #secondary {
-padding-bottom:1.8em;
-padding-left:3.0001%;
+padding-bottom:2em;
+padding-left:2%;
 padding-right:0;
-padding-top:1.1em;
-width:26.375%;
+padding-top:0;
+width:28.17578125%;
 }
 
 #primary {
-padding-bottom:1.8em;
+padding-bottom:2em;
 padding-left:0;
-padding-right:3.0001%;
-padding-top:1.1em;
-width:67.625%;
+padding-right:2%;
+padding-top:0;
+width:67.82421875%;
 }
 
 #supplementary {
@@ -99,7 +98,7 @@ padding-bottom:25em;
 padding-left:0;
 padding-right:0;
 padding-top:0;
-width:90.3125%;
+width:86.23046875%;
 }
 
 .footer_div {
@@ -107,21 +106,20 @@ color:#000000;
 font-size:.8em;
 line-height:1.4em;
 margin-right:2%;
-width:23.5%;
+width:18.5%;
 }
 
 .logo_pos {
 left:10%;
 right:inherit;
-top:1.4286em;
+top:1.5715em;
 }
 
 .footer_container {
 left:0;
-margin-left:0;
+margin-left:128px;
 max-width:100%;
 top:1px;
-width:960px;
 }
 
 .cssdone {
@@ -307,7 +305,7 @@ text-transform:none;
 display:block;
 left:inherit;
 right:10%;
-top:3.0715em;
+top:2.8572em;
 }
 
 .site_desc {
@@ -499,26 +497,26 @@ line-height:1px;
 }
 
 #abrn_prev {
-left:-.2343%;
-top:15.3572em;
+left:-1.7968%;
+top:16.0715em;
 }
 
 #abrn_next {
-left:72.4219%;
+left:73.2032%;
 top:15em;
 }
 
 .abrn_home_menu {
 left:.9375%;
-top:32.3572em;
+top:32em;
 }
 
 .top_left {
 padding-bottom:2em;
 padding-left:0;
 padding-right:3%;
-padding-top:1em;
-width:61.6484375%;
+padding-top:0;
+width:59.109375%;
 }
 
 .top_middle {
@@ -533,8 +531,8 @@ width:0;
 padding-bottom:2em;
 padding-left:3%;
 padding-right:0;
-padding-top:1em;
-width:32.3515625%;
+padding-top:0;
+width:34.890625%;
 }
 
 .middle_left {
@@ -587,11 +585,11 @@ width:100%;
 
 .abrn_menu_sub {
 left:1.0157%;
-top:7.2143em;
+top:6.8572em;
 }
 
 .top_left_1 {
-padding-bottom:0;
+padding-bottom:1em;
 padding-left:0;
 padding-right:0;
 padding-top:0;
@@ -615,11 +613,11 @@ width:0;
 }
 
 .middle_left_1 {
-padding-bottom:0;
+padding-bottom:2em;
 padding-left:0;
-padding-right:3%;
-padding-top:1.8em;
-width:63.11328125%;
+padding-right:2%;
+padding-top:1em;
+width:63.4296875%;
 }
 
 .middle_middle_1 {
@@ -631,11 +629,11 @@ width:0;
 }
 
 .middle_right_1 {
-padding-bottom:0;
-padding-left:0;
-padding-right:3%;
-padding-top:1.8em;
-width:30.88671875%;
+padding-bottom:2em;
+padding-left:2%;
+padding-right:0;
+padding-top:1em;
+width:32.5703125%;
 }
 
 .bottom_left_1 {
@@ -643,7 +641,7 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
 padding-top:0;
-width:66.11328125%;
+width:65.4296875%;
 }
 
 .bottom_middle_1 {
@@ -659,7 +657,7 @@ padding-bottom:0;
 padding-left:0;
 padding-right:0;
 padding-top:0;
-width:33.88671875%;
+width:34.5703125%;
 }
 
 #branding {
