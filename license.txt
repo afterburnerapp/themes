@@ -1,0 +1,67 @@
+Afterburner Developer License Agreement
+
+Important-read carefully: this afterburner developer license agreement is a legal agreement between you and hotware, llc. Your right to purchase and use the afterburner software application is conditioned upon your acceptance of the terms of this agreement. By clicking on the “agree” button below, you agree to comply with all terms and conditions of this agreement.  If you do not agree to all of the terms and conditions below, do not click “agree” and do not purchase or use this product.
+
+Background:
+Hotware, LLC (“Hotware”) is the developer of the Afterburner software application. Afterburner combines graphics and code to create compressed archives called “Themes” that may be used with the Wordpress content management platform. Afterburner is comprised of Javascript, CSS, and HTML code developed and owned by Hotware ( the “Proprietary Code”), and PHP Code licensed under the GNU general public license (“GPL Code”), which may be found http://www.gnu.org/copyleft/gpl.html.  This license only grants a license to use the Proprietary Code.
+
+Agreement:
+Therefore, You and Hotware agree as follows:
+	I.	Grant of License
+	a.	Right to Use: Subject to the terms of this Agreement, Hotware hereby grants to You one perpetual, non-exclusive, nontransferable license to use the Proprietary Code in machine executable object code form of the Proprietary Code to build and export Themes, for yourself and for third parties, subject to the terms and conditions set forth below.  This license includes the right to access manuals, instructions, FAQs or documentation, if any, (collectively, the “Documentation”) Hotware makes available to Afterburner licensees on Hotware’s website.
+
+	a.	Permitted Uses: Subject to the terms of this License:
+	i.	You may create, export, distribute and sell Themes, for use by third parties for their use; and
+	ii.	You may use use the Proprietary Code create and maintain one (1) website for Your own use.
+
+	a.	License Restrictions: You acknowledge that the Proprietary Code is the sole and exclusive property of Hotware and that You have no rights in the foregoing except those expressly granted by this License. Other than as permitted in section I.b above, You shall not make or distribute any derivative work based on the Proprietary Code. You shall not copy (except as necessary for backup), modify, translate, reverse engineer, disassemble, or decompile the Proprietary Code or the Afterburner software, and you shall not permit other persons to use the Proprietary Code or the Afterburner software. You shall not sell the Proprietary Code to any person or entities. You shall not use the Proprietary Code or any part of the Afterburner software for any uses deemed illegal under state or Federal law. You shall maintain and display, and shall not remove, obscure or deface, all copyright and trademark notices on the Proprietary Code and shall take other necessary steps to protect Hotware’s intellectual property rights. 
+	b.	Exclusions: This License grants no rights to trademarks, copyrights, patents, trade secrets or any other intellectual property of Hotware except as expressly stated herein. 
+
+	I.	Scope of License
+You acknowledge and agree that portions of the code contained in Afterburner are GPL Code licensed under the GNU general public license. All other parts of Afterburner (the “Proprietary Code”) are licensed according to this License. 
+	I.	Fees and Payment
+You shall pay the current license fee stated on Hotware’s website for the right to license Afterburner pursuant to this License. You agree to pay and are responsible for any and all sales taxes, use taxes, value added taxes and duties imposed by any jurisdiction as a result of the license granted to You, or by Your use of the Afterburner software, if applicable.
+
+	I.	Thirty Day Free Trial
+You shall be granted a thirty (30) day trial use period to access and use the Afterburner software. At the end of this 30 day period, you shall pay the current Afterburner license fee or the Afterburner software will automatically cease to function and your right to access and use shall terminate. You acknowledge that Hotware will receive and record Your Uniform Resource Locator (“URL”) when You download the thirty day trial of Afterburner, and Hotware will use Your URL to verify whether You have paid for the software. Hotware does NOT track any personal or user identification. You also acknowledge that the 45 day trial of Afterburner is restricted by and subject to the terms and conditions of this Agreement, and You agree to be bound by the terms and conditions of this Agreement while using the 45 day trial of the software, whether you purchase the software or not.   
+
+
+
+
+
+	I.	Delivery
+You may download Afterburner as a .zip file once Your full payment has been processed and received by Hotware.  Once payment has been processed, you shall not be entitled to a refund, and all sales are final.
+
+	I.	Minimum Requirements
+Requirements for proper use of Afterburner are as stated on the website http://www.afterbunrerapp.com/requirements. You understand these requirements are necessary for proper use with the current version of Afterburner and agree that You possess the necessary requirements for such use at the time of purchase.
+
+	I.	Support
+Hotware will not provide any support for the Afterburner software nor will Hotware provide any general Wordpress support. For Wordpress support You may use www.wordpress.org/support, but Hotware is not responsible for Wordpress support, and your and use of www.wordpress.org/support is at your own risk.
+
+	I.	 Confidentiality 
+You acknowledge the Proprietary Code and the Documentation contain valuable trade secrets that are the sole and exclusive property of Hotware. You agree that You will not use this information in any way not allowed by this License, that You will not disclose this information to anyone other than Your  officers, agents, and employees who require access, that You will maintain and protect the confidentiality of Hotware’s trade secret information, and that You will take all necessary and proper precautions to prevent any unauthorized use or disclosure of Hotware’s trade secret information.
+
+	I.	Disclaimer of warranties;limitation of liability
+	a.	The proprietary code is provided “as is” without warranty of any kind, either express or implied, including the implied warranties of merchantability, fitness for a particular purpose, noninfringement, capacity, and title. Hotware does not warrant that the operation of the proprietary code will be uninterrupted or error-free or that the proprietary code will meet your needs.
+	b.	In no event will hotware be liable with respect to any subject matter of this license under any contract, negligence, strict liability or other legal or equitable theory for: (1) any special, incidental or consequential damages; (2) the cost of procurement or substitute products or services; (3) for interruption of use or loss or corruption of data; or (4) for any amounts that exceed the fees paid by you to hotware under this license. Hotware shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+
+	I.	Your sole remedy for infringement. 
+If Hotware believes, in its sole discretion, that the Proprietary CodE may infringe any Third Party’s intellectual property rights, Hotware may, in its sole discretion, (a) modify the Proprietary Code to be non-infringing, (b) obtain for You a license to continue using the Proprietary Code, or (c) if neither (a) or (b) is practical or desirable in Hotware’s sole discretion, terminate this Agreement and return to You any unearned fees paid by You to Hotware. This Section X states Hotware’s entire liability and Your exclusive remedies for infringement of intellectual property rights of any kind.
+
+	I.	Indemnification
+You agree to indemnify and hold harmless Hotware and its members, officers, agents, and employees, for all costs, expenses, and losses (including reasonable attorney’s fees), arising from any and all claims arising out of or in connection with the use by You of the Proprietary Code.
+
+	I.	Termination
+	a.	Termination For Breach: Hotware may terminate this License upon the material breach by You of any obligation of You this License.  Upon termination of this License, You shall cease using the Proprietary Code, and shall return to Hotware all copies of the Proprietary Code and Documentation in Your possession, or to destroy all copies of the Proprietary Code and Documentation in Your possession. The obligation of confidentiality set forth in this License shall remain in effect notwithstanding any termination of this License.  Termination of this License shall not affect the rights of any third party to use the Distributed Theme software or Proprietary Code to the extent it is incorporated in any Distributed Theme software.
+	b.	Termination Upon End of Proprietary Code Maintenance: In the event that Hotware states to you in writing that it shall stop maintaining the Proprietary Code, this License shall immediately terminate, and the Proprietary Code shall become licensed under the GPL.
+
+
+	I.	 Miscellaneous
+	a.	Entire Agreement: The parties have read this License and agree to be bound by its terms, and further agree that it constitutes the complete and entire agreement of the parties.
+	b.	Assignment: The License may not be assigned by You.  Hotware may assign its rights under this License and to Afterburner and the Proprietary Code to any party, in Hotware’s sole discretion.
+	c.	Amendments: Hotware may change or amend any section of this License at any time without prior notice of any kind to You or any third party. Such changes and amendments are immediately effective and supersede any applicable section of any version of the License.
+	d.	Governing Law; Venue: The License shall be governed by and construed in accordance with the laws of the State of Oregon.  Any litigation relating to this License shall be subject to the jurisdiction of courts located in the City of Portland, Multnomah County, Oregon.
+	e.	Injunctive Relief: A party may seek injunctive relief in any court of competent jurisdiction, including temporary restraining orders and preliminary injunctions, against conduct or threatened conduct for which no adequate remedy at law may be available or which may cause that party irreparable harm.
+	f.	Severability: If any provision of this License is found to be invalid or unenforceable in any respect for any reason, the validity and enforceability of such provision in any other respect and of the remaining provisions of this License will not be impaired in any way.
+	g.	Notice: Any notice or other communication required or permitted under this License shall be in writing, addressed to the respective email or other address provided by You in the registration process. Notice may be delivered (a) in person or sent by registered mail Return Receipt Requested (“Hard Copy”), or (b) by facsimile and followed up with a Hard Copy, or (c) by email and followed up with a Hard Copy. Notice shall be deemed given when received by the party to whom it is addressed, but in no event no later than the third business day following mailing or personal delivery of a Hard Copy.
+1 of 5
